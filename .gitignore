@@ -4,7 +4,7 @@ train/
 train-resized/
 
 best_model_densenet121.pth
-best_model_densenet121.pth
+best_model_efficientnetv2_s.pth
 best_model_resnet34.pth
 sample_weights.pt
 train.csv
