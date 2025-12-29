@@ -2,9 +2,10 @@ valid/
 valid-resized/
 train/
 train-resized/
-best_model_densenet121.pth/
-best_model_densenet121.pth/
-best_model_resnet34.pth/
-sample_weights.pt/
-train.csv/
-valid.csv/
+
+best_model_densenet121.pth
+best_model_densenet121.pth
+best_model_resnet34.pth
+sample_weights.pt
+train.csv
+valid.csv
