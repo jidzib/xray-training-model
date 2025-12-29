@@ -12,5 +12,4 @@ The model uses CheXpert-v1.0-small from Kaggle: https://www.kaggle.com/datasets/
 Download the following files: train.csv, valid.csv, train, valid\
 Put them all in the project root alongside the notebook
 ## NOTE
-### This model is for educational and research purposes only, and should not be used for medical
-### or clinical diagnosis
+### This model is for educational and research purposes only, and should not be used for medical or clinical diagnosis
