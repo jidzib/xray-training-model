@@ -3,7 +3,7 @@
 This notebook trains a multimodal classification training model on chest X-rays. It combines
 image-based deep learning with patient tabular features to predict chest conditions.
 
-It is how I generated the model used in my live web-deployed demo: https://xray-webapp.fly.dev 
+It is how I generated the model used in my live web-deployed demo: https://xray-webapp.fly.dev/ 
 More information about the model can be found in the README.md for the web app's repository: https://github.com/jidzib/xray-webapp/edit/main/README.md 
 
 ### How to use
